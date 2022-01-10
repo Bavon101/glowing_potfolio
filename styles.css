@@ -16,7 +16,7 @@
 .headline {
   display: flex;
   position: relative;
-  width: 380x;
+  width: 380px;
   height: 336px;
   left: 16px;
   top: 10px;
@@ -68,7 +68,6 @@
   position: relative;
   left: 5%;
   right: 5%;
-  /* top: 7.94%; */
   bottom: 91.04%;
   align-self: center;
   align-content: center;
